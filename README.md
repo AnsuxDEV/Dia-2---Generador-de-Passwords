@@ -14,16 +14,6 @@ Aplicación de consola en Java que genera contraseñas seguras con letras, núme
 - Contraseña generada aleatoriamente en cada ejecución.
 - Validación de entradas para evitar errores.
 
-## 📦 Ejecución
-1º Clona el repositorio:
-  git clone https://github.com/AnsuxDEV/GeneradorContrasenas.git
-
-2º Compila el archivo
-  javac GeneradorPasswords.java
-
-3º Ejecuta el programa
-   java GeneradorPasswords
-
 ## 🖼️ Ejemplo de uso:
 
   - ¿Qué longitud necesitas en tu password? 16
